@@ -1,6 +1,6 @@
 Hello World! 👋 My name is Dennis.
 
-Welcome to my GitHub! Feel free to browse some of the projects that I have been or am currently working on.
+Welcome to my GitHub! Feel free to browse some of the projects that I have previously worked on or am currently working on.
 
 Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/dxiong1) or [email](mailto:dtx319+7@gmail.com). I also have a profile on [Credly](https://credly.com/users/dtx319).
 
