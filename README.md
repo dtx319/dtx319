@@ -2,7 +2,7 @@ Hello World! 👋 My name is Dennis
 
 Welcome to my GitHub! Feel free to browse some of the projects that I've been or am currently working on.
 
-Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/dxiong1) or [email](dtx319@gmail.com).
+Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/dxiong1) or [email](mailto:dtx319+7@gmail.com).
 
 <!--
 **dtx319/dtx319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
